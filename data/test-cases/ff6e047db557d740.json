@@ -1,0 +1,58 @@
+{
+  "uid" : "ff6e047db557d740",
+  "name" : "Given I am on the homepage",
+  "fullName" : "The Zip extractor Website: As a user, I see Creating new ZIP file screen when choose to “Create New Zip”.Given I am on the homepage",
+  "historyId" : "7abc4a2a11ef43a92d2e98102c1fa6aa",
+  "time" : {
+    "start" : 1601487464964,
+    "stop" : 1601487467816,
+    "duration" : 2852
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see Creating new ZIP file screen when choose to “Create New Zip”"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see Creating new ZIP file screen when choose to “Create New Zip”"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the homepage"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see Creating new ZIP file screen when choose to “Create New Zip”"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ff6e047db557d740.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

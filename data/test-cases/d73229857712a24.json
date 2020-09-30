@@ -1,0 +1,66 @@
+{
+  "uid" : "d73229857712a24",
+  "name" : "Hook",
+  "fullName" : "The Zip extractor Website: As a user, I see native OS choosed zip file contents listed on screen.Hook",
+  "historyId" : "389669c3b6c6b1431cd48b1efa7174d5",
+  "time" : {
+    "start" : 1601487404185,
+    "stop" : 1601487404186,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see native OS choosed zip file contents listed on screen"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see native OS choosed zip file contents listed on screen"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see native OS choosed zip file contents listed on screen"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c4e991093973b724",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487352882,
+        "stop" : 1601487352884,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d73229857712a24.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

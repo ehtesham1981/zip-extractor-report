@@ -1,0 +1,58 @@
+{
+  "uid" : "487584230274d2e",
+  "name" : "Given I am on the homepage",
+  "fullName" : "The Zip extractor Website: As a user, I return to the standard Create Zip screen when click cross button.Given I am on the homepage",
+  "historyId" : "80d27fae8a09ac83a5b16110e569b58d",
+  "time" : {
+    "start" : 1601487509487,
+    "stop" : 1601487512469,
+    "duration" : 2982
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I return to the standard Create Zip screen when click cross button"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I return to the standard Create Zip screen when click cross button"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the homepage"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I return to the standard Create Zip screen when click cross button"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "487584230274d2e.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected '0' to deeply equal '1'",
+      "children" : [ {
+        "name" : "Then I see encoded file name decoded to тест.txt",
+        "uid" : "9faaadedc9aedd6b",
+        "parentUid" : "ab3179afc5290cfe8400127ce11630b0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1601487454816,
+          "stop" : 1601487464950,
+          "duration" : 10134
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-85.0.4183.121" ]
+      } ],
+      "uid" : "ab3179afc5290cfe8400127ce11630b0"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

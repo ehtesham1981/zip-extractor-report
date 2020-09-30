@@ -1,0 +1,58 @@
+{
+  "uid" : "18d51a40a64bdb56",
+  "name" : "And I enter password",
+  "fullName" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password” when set password.And I enter password",
+  "historyId" : "abd731996aaed1638c94abfa44e8afbf",
+  "time" : {
+    "start" : 1601487534244,
+    "stop" : 1601487534358,
+    "duration" : 114
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password” when set password"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password” when set password"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I enter password"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password” when set password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18d51a40a64bdb56.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

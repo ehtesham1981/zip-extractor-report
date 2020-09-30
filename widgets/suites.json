@@ -1,0 +1,114 @@
+{
+  "total" : 14,
+  "items" : [ {
+    "uid" : "c55f7e05ea22840406d2a49403c33620",
+    "name" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "680ef749fba57fc4b34c3e756bb8f43b",
+    "name" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    }
+  }, {
+    "uid" : "1ca4ae0d633fd68a72d92275b182f3cc",
+    "name" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password using strong encryption” when set password with encryption",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
+    "uid" : "b3c93e91229fd9eb1738d7760d2cd883",
+    "name" : "The Zip extractor Website: As a user, I see entered password as plainText when click on show Password",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "590e7198d33f57a2187c02efce2cb6b4",
+    "name" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password” when set password",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "f5ca63b3ae5424900604c9cf6bd44090",
+    "name" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "5c92bce6c0aad27860c1e7f36d1a3d5e",
+    "name" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "07b42b25c8a252db0505056ca6f5ab65",
+    "name" : "The Zip extractor Website: : As a user, I see filename autocompleted with ZIP extension while clicking on screen",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "d9aaf7bef4cdf33d2451d48eb76f190b",
+    "name" : "The Zip extractor Website: As a user, I see add password prompt",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "8bcc364e53062b9f9686721ef12b1d0c",
+    "name" : "The Zip extractor Website: As a user, I return to the standard Create Zip screen when click cross button",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  } ]
+}

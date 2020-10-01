@@ -1,8 +1,19 @@
 {
   "total" : 14,
   "items" : [ {
-    "uid" : "c55f7e05ea22840406d2a49403c33620",
-    "name" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding",
+    "uid" : "680ef749fba57fc4b34c3e756bb8f43b",
+    "name" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 9
+    }
+  }, {
+    "uid" : "c41d5bd510d51c5aa4eca33d62d78c35",
+    "name" : "The Zip extractor Website: As a user, I see native OS choosed zip file contents listed on screen",
     "statistic" : {
       "failed" : 1,
       "broken" : 0,
@@ -10,17 +21,6 @@
       "passed" : 4,
       "unknown" : 0,
       "total" : 5
-    }
-  }, {
-    "uid" : "680ef749fba57fc4b34c3e756bb8f43b",
-    "name" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 9,
-      "unknown" : 0,
-      "total" : 9
     }
   }, {
     "uid" : "1ca4ae0d633fd68a72d92275b182f3cc",

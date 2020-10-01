@@ -4,53 +4,66 @@
   "children" : [ {
     "name" : "The Zip extractor Website: As a user, I see native OS choosed zip file contents listed on screen",
     "children" : [ {
-      "name" : "Given I am on the homepage",
-      "uid" : "fa3cad3b2768eedd",
+      "name" : "Then I see the list of exe,test.exe,jpg,test.jpg,тест.txt of zip file before extraction begins",
+      "uid" : "d72428212ceb62b6",
       "parentUid" : "c41d5bd510d51c5aa4eca33d62d78c35",
       "status" : "passed",
       "time" : {
-        "start" : 1601487352885,
-        "stop" : 1601487363951,
-        "duration" : 11066
+        "start" : 1601528938965,
+        "stop" : 1601528959072,
+        "duration" : 20107
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "e9fbb7d7cc7dbc0e",
+      "parentUid" : "c41d5bd510d51c5aa4eca33d62d78c35",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529780736,
+        "stop" : 1601529791962,
+        "duration" : 11226
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "When I open zip Zip.zipx from local system",
-      "uid" : "3e0fbf6cffe59cd",
+      "uid" : "94a9b5f208b40833",
       "parentUid" : "c41d5bd510d51c5aa4eca33d62d78c35",
       "status" : "passed",
       "time" : {
-        "start" : 1601487363952,
-        "stop" : 1601487384088,
-        "duration" : 20136
+        "start" : 1601529791962,
+        "stop" : 1601529812108,
+        "duration" : 20146
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
-      "name" : "Then I see the list of exe,test.exe,jpg,test.jpg,тест.txt of zip file before extraction begins",
-      "uid" : "b88843dfe6c8cbe6",
+      "name" : "Then I see the list of exe,test.exe,jpg,test.jpg,тест.txt1 of zip file before extraction begins",
+      "uid" : "5269d94f0f4e022a",
       "parentUid" : "c41d5bd510d51c5aa4eca33d62d78c35",
-      "status" : "passed",
+      "status" : "failed",
       "time" : {
-        "start" : 1601487384088,
-        "stop" : 1601487404185,
-        "duration" : 20097
+        "start" : 1601529812108,
+        "stop" : 1601529832713,
+        "duration" : 20605
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Hook",
-      "uid" : "d73229857712a24",
+      "uid" : "1c9642500195cc9d",
       "parentUid" : "c41d5bd510d51c5aa4eca33d62d78c35",
       "status" : "passed",
       "time" : {
-        "start" : 1601487404185,
-        "stop" : 1601487404186,
-        "duration" : 1
+        "start" : 1601529832713,
+        "stop" : 1601529832723,
+        "duration" : 10
       },
       "flaky" : false,
       "newFailed" : false,
@@ -61,51 +74,51 @@
     "name" : "The Zip extractor Website: As a user, I see \"Fix Encoding\" button",
     "children" : [ {
       "name" : "Given I am on the homepage",
-      "uid" : "52c1684fa5edd288",
+      "uid" : "fb7fd650ca094118",
       "parentUid" : "3118cee94a237de427735842a9b76c77",
       "status" : "passed",
       "time" : {
-        "start" : 1601487404196,
-        "stop" : 1601487406750,
-        "duration" : 2554
+        "start" : 1601529832734,
+        "stop" : 1601529835289,
+        "duration" : 2555
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "When I open zip Zip.none.zip from local system",
-      "uid" : "a8f44fff81cdae07",
+      "uid" : "b2ad8ce92ddf1bbf",
       "parentUid" : "3118cee94a237de427735842a9b76c77",
       "status" : "passed",
       "time" : {
-        "start" : 1601487406750,
-        "stop" : 1601487426897,
-        "duration" : 20147
+        "start" : 1601529835289,
+        "stop" : 1601529855422,
+        "duration" : 20133
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Then I see \"Fix Encoding\" shown",
-      "uid" : "5a4e5467cfe5bda7",
+      "uid" : "6e7e8733a4059cab",
       "parentUid" : "3118cee94a237de427735842a9b76c77",
       "status" : "passed",
       "time" : {
-        "start" : 1601487426897,
-        "stop" : 1601487428960,
-        "duration" : 2063
+        "start" : 1601529855422,
+        "stop" : 1601529857477,
+        "duration" : 2055
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Hook",
-      "uid" : "af7acf1ee615428c",
+      "uid" : "4a4af47e2dbf2af1",
       "parentUid" : "3118cee94a237de427735842a9b76c77",
       "status" : "passed",
       "time" : {
-        "start" : 1601487428960,
-        "stop" : 1601487428961,
+        "start" : 1601529857477,
+        "stop" : 1601529857478,
         "duration" : 1
       },
       "flaky" : false,
@@ -117,65 +130,65 @@
     "name" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding",
     "children" : [ {
       "name" : "Given I am on the homepage",
-      "uid" : "cf0bd2e4907d8978",
+      "uid" : "39a7d3f6f6c2ce54",
       "parentUid" : "c55f7e05ea22840406d2a49403c33620",
       "status" : "passed",
       "time" : {
-        "start" : 1601487428967,
-        "stop" : 1601487431618,
-        "duration" : 2651
+        "start" : 1601529857484,
+        "stop" : 1601529860001,
+        "duration" : 2517
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "When I open zip Zip.none.zip from local system",
-      "uid" : "d7f7090a8c775e65",
+      "uid" : "5a0cf6a2f04808e9",
       "parentUid" : "c55f7e05ea22840406d2a49403c33620",
       "status" : "passed",
       "time" : {
-        "start" : 1601487431618,
-        "stop" : 1601487451713,
-        "duration" : 20095
+        "start" : 1601529860001,
+        "stop" : 1601529880085,
+        "duration" : 20084
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I click Fix encoding button",
-      "uid" : "97113a1e59db6147",
+      "uid" : "db747879130b2bd7",
       "parentUid" : "c55f7e05ea22840406d2a49403c33620",
       "status" : "passed",
       "time" : {
-        "start" : 1601487451713,
-        "stop" : 1601487454816,
-        "duration" : 3103
+        "start" : 1601529880085,
+        "stop" : 1601529883184,
+        "duration" : 3099
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Then I see encoded file name decoded to тест.txt",
-      "uid" : "9faaadedc9aedd6b",
+      "uid" : "7ae3b8f70648b7d",
       "parentUid" : "c55f7e05ea22840406d2a49403c33620",
-      "status" : "failed",
+      "status" : "passed",
       "time" : {
-        "start" : 1601487454816,
-        "stop" : 1601487464950,
-        "duration" : 10134
+        "start" : 1601529883184,
+        "stop" : 1601529893292,
+        "duration" : 10108
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Hook",
-      "uid" : "963b37e653620dc2",
+      "uid" : "e7491435eecd6b25",
       "parentUid" : "c55f7e05ea22840406d2a49403c33620",
       "status" : "passed",
       "time" : {
-        "start" : 1601487464950,
-        "stop" : 1601487464958,
-        "duration" : 8
+        "start" : 1601529893292,
+        "stop" : 1601529893292,
+        "duration" : 0
       },
       "flaky" : false,
       "newFailed" : false,
@@ -186,52 +199,52 @@
     "name" : "The Zip extractor Website: As a user, I see Creating new ZIP file screen when choose to “Create New Zip”",
     "children" : [ {
       "name" : "Given I am on the homepage",
-      "uid" : "ff6e047db557d740",
+      "uid" : "c5e0c60e3c22278f",
       "parentUid" : "e677dc6e274217c522d45b421a115d27",
       "status" : "passed",
       "time" : {
-        "start" : 1601487464964,
-        "stop" : 1601487467816,
-        "duration" : 2852
+        "start" : 1601529893299,
+        "stop" : 1601529895804,
+        "duration" : 2505
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "When I click Create New Zip",
-      "uid" : "567afd78d29b66be",
+      "uid" : "a0dd7b2d5e9a126f",
       "parentUid" : "e677dc6e274217c522d45b421a115d27",
       "status" : "passed",
       "time" : {
-        "start" : 1601487467816,
-        "stop" : 1601487468680,
-        "duration" : 864
+        "start" : 1601529895804,
+        "stop" : 1601529897421,
+        "duration" : 1617
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Then I see screen titled \"Creating new ZIP file\"",
-      "uid" : "b4459a0cbed166f9",
+      "uid" : "a483fd0e7387e027",
       "parentUid" : "e677dc6e274217c522d45b421a115d27",
       "status" : "passed",
       "time" : {
-        "start" : 1601487468680,
-        "stop" : 1601487471334,
-        "duration" : 2654
+        "start" : 1601529897423,
+        "stop" : 1601529903243,
+        "duration" : 5820
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Hook",
-      "uid" : "230dc828b6b6c07d",
+      "uid" : "e42c6f2a5e10a2fa",
       "parentUid" : "e677dc6e274217c522d45b421a115d27",
       "status" : "passed",
       "time" : {
-        "start" : 1601487471334,
-        "stop" : 1601487471335,
-        "duration" : 1
+        "start" : 1601529903243,
+        "stop" : 1601529903243,
+        "duration" : 0
       },
       "flaky" : false,
       "newFailed" : false,
@@ -242,78 +255,78 @@
     "name" : "The Zip extractor Website: : As a user, I see filename autocompleted with ZIP extension while clicking on screen",
     "children" : [ {
       "name" : "Given I am on the homepage",
-      "uid" : "3f91d8556fc6b0ab",
+      "uid" : "c4fa4ddb419c3e25",
       "parentUid" : "07b42b25c8a252db0505056ca6f5ab65",
       "status" : "passed",
       "time" : {
-        "start" : 1601487471339,
-        "stop" : 1601487473994,
-        "duration" : 2655
+        "start" : 1601529903251,
+        "stop" : 1601529905745,
+        "duration" : 2494
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "When I click Create New Zip",
-      "uid" : "c6ce24490eb0ed2c",
+      "uid" : "5e43e77ffd5b11c6",
       "parentUid" : "07b42b25c8a252db0505056ca6f5ab65",
       "status" : "passed",
       "time" : {
-        "start" : 1601487473994,
-        "stop" : 1601487475004,
-        "duration" : 1010
+        "start" : 1601529905745,
+        "stop" : 1601529906846,
+        "duration" : 1101
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I input test",
-      "uid" : "cf742be927a9f52b",
+      "uid" : "8e50c6c7056720b5",
       "parentUid" : "07b42b25c8a252db0505056ca6f5ab65",
       "status" : "passed",
       "time" : {
-        "start" : 1601487475004,
-        "stop" : 1601487485225,
-        "duration" : 10221
+        "start" : 1601529906846,
+        "stop" : 1601529917040,
+        "duration" : 10194
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I click on screen",
-      "uid" : "b066766169a1e9e9",
+      "uid" : "d5f1d2d7f5278c97",
       "parentUid" : "07b42b25c8a252db0505056ca6f5ab65",
       "status" : "passed",
       "time" : {
-        "start" : 1601487485226,
-        "stop" : 1601487485783,
-        "duration" : 557
+        "start" : 1601529917040,
+        "stop" : 1601529917604,
+        "duration" : 564
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Then I see test autocompleted with zip extension",
-      "uid" : "c3ddff1e89154394",
+      "uid" : "a8b2329cce1ca52a",
       "parentUid" : "07b42b25c8a252db0505056ca6f5ab65",
       "status" : "passed",
       "time" : {
-        "start" : 1601487485784,
-        "stop" : 1601487495827,
-        "duration" : 10043
+        "start" : 1601529917604,
+        "stop" : 1601529927664,
+        "duration" : 10060
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Hook",
-      "uid" : "58676034dad1c2e3",
+      "uid" : "890da57de3debe5",
       "parentUid" : "07b42b25c8a252db0505056ca6f5ab65",
       "status" : "passed",
       "time" : {
-        "start" : 1601487495827,
-        "stop" : 1601487495829,
-        "duration" : 2
+        "start" : 1601529927665,
+        "stop" : 1601529927665,
+        "duration" : 0
       },
       "flaky" : false,
       "newFailed" : false,
@@ -324,77 +337,77 @@
     "name" : "The Zip extractor Website: As a user, I see add password prompt",
     "children" : [ {
       "name" : "Given I am on the homepage",
-      "uid" : "59523541e4e33199",
+      "uid" : "1c4b7cf60aff7139",
       "parentUid" : "d9aaf7bef4cdf33d2451d48eb76f190b",
       "status" : "passed",
       "time" : {
-        "start" : 1601487495835,
-        "stop" : 1601487498385,
-        "duration" : 2550
+        "start" : 1601529927672,
+        "stop" : 1601529930159,
+        "duration" : 2487
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I click Create New Zip",
-      "uid" : "d96493d5d06104ed",
+      "uid" : "d89c57f60f1f6f14",
       "parentUid" : "d9aaf7bef4cdf33d2451d48eb76f190b",
       "status" : "passed",
       "time" : {
-        "start" : 1601487498385,
-        "stop" : 1601487499091,
-        "duration" : 706
+        "start" : 1601529930159,
+        "stop" : 1601529931543,
+        "duration" : 1384
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I input test.zip",
-      "uid" : "b3858d7f6d703432",
+      "uid" : "80cb845984d38310",
       "parentUid" : "d9aaf7bef4cdf33d2451d48eb76f190b",
       "status" : "passed",
       "time" : {
-        "start" : 1601487499091,
-        "stop" : 1601487509262,
-        "duration" : 10171
+        "start" : 1601529931544,
+        "stop" : 1601529941696,
+        "duration" : 10152
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I click Add Password",
-      "uid" : "e4386788b721688",
+      "uid" : "ac75f6b960c7c314",
       "parentUid" : "d9aaf7bef4cdf33d2451d48eb76f190b",
       "status" : "passed",
       "time" : {
-        "start" : 1601487509262,
-        "stop" : 1601487509345,
-        "duration" : 83
+        "start" : 1601529941696,
+        "stop" : 1601529941784,
+        "duration" : 88
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Then I see add password prompt appeared",
-      "uid" : "ba15a794c1096372",
+      "uid" : "34015378cca667fd",
       "parentUid" : "d9aaf7bef4cdf33d2451d48eb76f190b",
       "status" : "passed",
       "time" : {
-        "start" : 1601487509345,
-        "stop" : 1601487509476,
-        "duration" : 131
+        "start" : 1601529941785,
+        "stop" : 1601529941927,
+        "duration" : 142
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Hook",
-      "uid" : "690bd8e8cc06700a",
+      "uid" : "df7b94967841395b",
       "parentUid" : "d9aaf7bef4cdf33d2451d48eb76f190b",
       "status" : "passed",
       "time" : {
-        "start" : 1601487509479,
-        "stop" : 1601487509479,
+        "start" : 1601529941927,
+        "stop" : 1601529941927,
         "duration" : 0
       },
       "flaky" : false,
@@ -406,77 +419,77 @@
     "name" : "The Zip extractor Website: As a user, I return to the standard Create Zip screen when click cross button",
     "children" : [ {
       "name" : "Given I am on the homepage",
-      "uid" : "487584230274d2e",
+      "uid" : "6e843daba3f6cb8b",
       "parentUid" : "8bcc364e53062b9f9686721ef12b1d0c",
       "status" : "passed",
       "time" : {
-        "start" : 1601487509487,
-        "stop" : 1601487512469,
-        "duration" : 2982
+        "start" : 1601529941935,
+        "stop" : 1601529944432,
+        "duration" : 2497
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "When I click Create New Zip",
-      "uid" : "bef26bea5b0a57ad",
+      "uid" : "b9dca24283300be2",
       "parentUid" : "8bcc364e53062b9f9686721ef12b1d0c",
       "status" : "passed",
       "time" : {
-        "start" : 1601487512469,
-        "stop" : 1601487512637,
-        "duration" : 168
+        "start" : 1601529944432,
+        "stop" : 1601529945553,
+        "duration" : 1121
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I click Add Password",
-      "uid" : "7a809470cc0d68c7",
+      "uid" : "aa3ae15bf376ce20",
       "parentUid" : "8bcc364e53062b9f9686721ef12b1d0c",
       "status" : "passed",
       "time" : {
-        "start" : 1601487512638,
-        "stop" : 1601487512850,
-        "duration" : 212
+        "start" : 1601529945554,
+        "stop" : 1601529945680,
+        "duration" : 126
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I click x button",
-      "uid" : "71fb0d711cc82583",
+      "uid" : "f5f7a4e7b391a97e",
       "parentUid" : "8bcc364e53062b9f9686721ef12b1d0c",
       "status" : "passed",
       "time" : {
-        "start" : 1601487512850,
-        "stop" : 1601487519941,
-        "duration" : 7091
+        "start" : 1601529945680,
+        "stop" : 1601529952772,
+        "duration" : 7092
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Then I see screen titled \"Creating new ZIP file\"",
-      "uid" : "52770a30a5223c24",
+      "uid" : "f69049f974a41f71",
       "parentUid" : "8bcc364e53062b9f9686721ef12b1d0c",
       "status" : "passed",
       "time" : {
-        "start" : 1601487519941,
-        "stop" : 1601487522058,
-        "duration" : 2117
+        "start" : 1601529952773,
+        "stop" : 1601529954886,
+        "duration" : 2113
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Hook",
-      "uid" : "ffc7c0544857bdf1",
+      "uid" : "e3bf88ca56a35ec5",
       "parentUid" : "8bcc364e53062b9f9686721ef12b1d0c",
       "status" : "passed",
       "time" : {
-        "start" : 1601487522058,
-        "stop" : 1601487522059,
+        "start" : 1601529954886,
+        "stop" : 1601529954887,
         "duration" : 1
       },
       "flaky" : false,
@@ -488,91 +501,91 @@
     "name" : "The Zip extractor Website: As a user, I see entered password as plainText when click on show Password",
     "children" : [ {
       "name" : "Given I am on the homepage",
-      "uid" : "b2e4cd0ac500fa1e",
+      "uid" : "372176b461fa19e0",
       "parentUid" : "b3c93e91229fd9eb1738d7760d2cd883",
       "status" : "passed",
       "time" : {
-        "start" : 1601487522065,
-        "stop" : 1601487524797,
-        "duration" : 2732
+        "start" : 1601529954893,
+        "stop" : 1601529957782,
+        "duration" : 2889
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I click Create New Zip",
-      "uid" : "fe2f7061936e80fd",
+      "uid" : "819e3571a695effa",
       "parentUid" : "b3c93e91229fd9eb1738d7760d2cd883",
       "status" : "passed",
       "time" : {
-        "start" : 1601487524797,
-        "stop" : 1601487525254,
-        "duration" : 457
+        "start" : 1601529957783,
+        "stop" : 1601529958928,
+        "duration" : 1145
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I click Add Password",
-      "uid" : "ffd18194ba6dccb5",
+      "uid" : "8c3b9e19b5b577ba",
       "parentUid" : "b3c93e91229fd9eb1738d7760d2cd883",
       "status" : "passed",
       "time" : {
-        "start" : 1601487525254,
-        "stop" : 1601487525387,
-        "duration" : 133
+        "start" : 1601529958929,
+        "stop" : 1601529959158,
+        "duration" : 229
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I enter password",
-      "uid" : "b4a0595cbfff7d69",
+      "uid" : "9114473903f9fa36",
       "parentUid" : "b3c93e91229fd9eb1738d7760d2cd883",
       "status" : "passed",
       "time" : {
-        "start" : 1601487525387,
-        "stop" : 1601487525569,
-        "duration" : 182
+        "start" : 1601529959159,
+        "stop" : 1601529959348,
+        "duration" : 189
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I click show password button",
-      "uid" : "40ed1ee46edbe63d",
+      "uid" : "7fd24e5671888faf",
       "parentUid" : "b3c93e91229fd9eb1738d7760d2cd883",
       "status" : "passed",
       "time" : {
-        "start" : 1601487525569,
-        "stop" : 1601487525661,
-        "duration" : 92
+        "start" : 1601529959348,
+        "stop" : 1601529959427,
+        "duration" : 79
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Then I see entered password as plainText",
-      "uid" : "cdf04e5c2786b8bb",
+      "uid" : "fedaf2b91fda239d",
       "parentUid" : "b3c93e91229fd9eb1738d7760d2cd883",
       "status" : "passed",
       "time" : {
-        "start" : 1601487525661,
-        "stop" : 1601487526184,
-        "duration" : 523
+        "start" : 1601529959427,
+        "stop" : 1601529959956,
+        "duration" : 529
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Hook",
-      "uid" : "328c944baa65d5c4",
+      "uid" : "76aee4ead66c1a82",
       "parentUid" : "b3c93e91229fd9eb1738d7760d2cd883",
       "status" : "passed",
       "time" : {
-        "start" : 1601487526185,
-        "stop" : 1601487526185,
-        "duration" : 0
+        "start" : 1601529959957,
+        "stop" : 1601529959958,
+        "duration" : 1
       },
       "flaky" : false,
       "newFailed" : false,
@@ -583,78 +596,78 @@
     "name" : "The Zip extractor Website: As a user, I see entered password as plainText when click on not show Password",
     "children" : [ {
       "name" : "Given I am on the homepage",
-      "uid" : "c7ee7d3fd35474f9",
+      "uid" : "54644b4f2ba121b9",
       "parentUid" : "5f0f6126a21372e8077d8f3dcb91c390",
       "status" : "passed",
       "time" : {
-        "start" : 1601487526191,
-        "stop" : 1601487528587,
-        "duration" : 2396
+        "start" : 1601529959964,
+        "stop" : 1601529962527,
+        "duration" : 2563
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "When I click Create New Zip",
-      "uid" : "d9e041a55136df75",
+      "uid" : "7a45e66c407275bd",
       "parentUid" : "5f0f6126a21372e8077d8f3dcb91c390",
       "status" : "passed",
       "time" : {
-        "start" : 1601487528588,
-        "stop" : 1601487529531,
-        "duration" : 943
+        "start" : 1601529962528,
+        "stop" : 1601529963745,
+        "duration" : 1217
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I click Add Password",
-      "uid" : "d5fb1d95eb6e6e02",
+      "uid" : "d2656bc6933b7bba",
       "parentUid" : "5f0f6126a21372e8077d8f3dcb91c390",
       "status" : "passed",
       "time" : {
-        "start" : 1601487529531,
-        "stop" : 1601487529717,
-        "duration" : 186
+        "start" : 1601529963746,
+        "stop" : 1601529963828,
+        "duration" : 82
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I enter password",
-      "uid" : "d124aa36f197c6fb",
+      "uid" : "6077a996803808b0",
       "parentUid" : "5f0f6126a21372e8077d8f3dcb91c390",
       "status" : "passed",
       "time" : {
-        "start" : 1601487529717,
-        "stop" : 1601487529877,
-        "duration" : 160
+        "start" : 1601529963828,
+        "stop" : 1601529963963,
+        "duration" : 135
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Then I see entered password as masked",
-      "uid" : "d6803646dddb9ca1",
+      "uid" : "6b44034fbe04505d",
       "parentUid" : "5f0f6126a21372e8077d8f3dcb91c390",
       "status" : "passed",
       "time" : {
-        "start" : 1601487529877,
-        "stop" : 1601487530396,
-        "duration" : 519
+        "start" : 1601529963963,
+        "stop" : 1601529964493,
+        "duration" : 530
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Hook",
-      "uid" : "10de30d7e912aa00",
+      "uid" : "88edcf4ef0a9815c",
       "parentUid" : "5f0f6126a21372e8077d8f3dcb91c390",
       "status" : "passed",
       "time" : {
-        "start" : 1601487530396,
-        "stop" : 1601487530397,
-        "duration" : 1
+        "start" : 1601529964494,
+        "stop" : 1601529964494,
+        "duration" : 0
       },
       "flaky" : false,
       "newFailed" : false,
@@ -665,90 +678,90 @@
     "name" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password” when set password",
     "children" : [ {
       "name" : "Given I am on the homepage",
-      "uid" : "7e19ec84bdb41820",
+      "uid" : "da915aa2153dbbf3",
       "parentUid" : "590e7198d33f57a2187c02efce2cb6b4",
       "status" : "passed",
       "time" : {
-        "start" : 1601487530403,
-        "stop" : 1601487532888,
-        "duration" : 2485
+        "start" : 1601529964499,
+        "stop" : 1601529967024,
+        "duration" : 2525
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I click Create New Zip",
-      "uid" : "81ef89b2732b1d29",
+      "uid" : "59f2678aa8720cd",
       "parentUid" : "590e7198d33f57a2187c02efce2cb6b4",
       "status" : "passed",
       "time" : {
-        "start" : 1601487532888,
-        "stop" : 1601487533598,
-        "duration" : 710
+        "start" : 1601529967025,
+        "stop" : 1601529967737,
+        "duration" : 712
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I click Add Password",
-      "uid" : "d6fa07bb6b2cf361",
+      "uid" : "33b9f429e143c3d6",
       "parentUid" : "590e7198d33f57a2187c02efce2cb6b4",
       "status" : "passed",
       "time" : {
-        "start" : 1601487533599,
-        "stop" : 1601487534244,
-        "duration" : 645
+        "start" : 1601529967737,
+        "stop" : 1601529968239,
+        "duration" : 502
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I enter password",
-      "uid" : "18d51a40a64bdb56",
+      "uid" : "62b1102e4bd1b5b6",
       "parentUid" : "590e7198d33f57a2187c02efce2cb6b4",
       "status" : "passed",
       "time" : {
-        "start" : 1601487534244,
-        "stop" : 1601487534358,
-        "duration" : 114
+        "start" : 1601529968240,
+        "stop" : 1601529968408,
+        "duration" : 168
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I click set password",
-      "uid" : "3f90a6d384dd878a",
+      "uid" : "32b9c0e6838415f5",
       "parentUid" : "590e7198d33f57a2187c02efce2cb6b4",
       "status" : "passed",
       "time" : {
-        "start" : 1601487534359,
-        "stop" : 1601487534437,
-        "duration" : 78
+        "start" : 1601529968408,
+        "stop" : 1601529968577,
+        "duration" : 169
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Then I see text “This ZIP file is encrypted with a password” shown",
-      "uid" : "c96cef67b520f896",
+      "uid" : "53896090a2e36a96",
       "parentUid" : "590e7198d33f57a2187c02efce2cb6b4",
       "status" : "passed",
       "time" : {
-        "start" : 1601487534437,
-        "stop" : 1601487554476,
-        "duration" : 20039
+        "start" : 1601529968579,
+        "stop" : 1601529988619,
+        "duration" : 20040
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Hook",
-      "uid" : "88eec06da7a9307b",
+      "uid" : "2b3409ec0874cb36",
       "parentUid" : "590e7198d33f57a2187c02efce2cb6b4",
       "status" : "passed",
       "time" : {
-        "start" : 1601487554476,
-        "stop" : 1601487554476,
+        "start" : 1601529988620,
+        "stop" : 1601529988620,
         "duration" : 0
       },
       "flaky" : false,
@@ -760,104 +773,104 @@
     "name" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password using strong encryption” when set password with encryption",
     "children" : [ {
       "name" : "Given I am on the homepage",
-      "uid" : "d9d889713fc780e8",
+      "uid" : "116e8feac4deb76d",
       "parentUid" : "1ca4ae0d633fd68a72d92275b182f3cc",
       "status" : "passed",
       "time" : {
-        "start" : 1601487554483,
-        "stop" : 1601487557069,
-        "duration" : 2586
+        "start" : 1601529988628,
+        "stop" : 1601529991062,
+        "duration" : 2434
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "When I click Create New Zip",
-      "uid" : "9bf525fb3cd44441",
+      "uid" : "cea792ea1347327f",
       "parentUid" : "1ca4ae0d633fd68a72d92275b182f3cc",
       "status" : "passed",
       "time" : {
-        "start" : 1601487557069,
-        "stop" : 1601487557773,
-        "duration" : 704
+        "start" : 1601529991062,
+        "stop" : 1601529992092,
+        "duration" : 1030
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I click Add Password",
-      "uid" : "fde644a5db55d7cb",
+      "uid" : "ba7c7726dfa21ee3",
       "parentUid" : "1ca4ae0d633fd68a72d92275b182f3cc",
       "status" : "passed",
       "time" : {
-        "start" : 1601487557773,
-        "stop" : 1601487557895,
-        "duration" : 122
+        "start" : 1601529992092,
+        "stop" : 1601529992254,
+        "duration" : 162
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I enter password",
-      "uid" : "635238093b4edecb",
+      "uid" : "900855a6b4870674",
       "parentUid" : "1ca4ae0d633fd68a72d92275b182f3cc",
       "status" : "passed",
       "time" : {
-        "start" : 1601487557895,
-        "stop" : 1601487558171,
-        "duration" : 276
+        "start" : 1601529992254,
+        "stop" : 1601529992496,
+        "duration" : 242
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I check Use strong encryption",
-      "uid" : "d359624e6570110e",
+      "uid" : "c2bc08c7bc257b3c",
       "parentUid" : "1ca4ae0d633fd68a72d92275b182f3cc",
       "status" : "passed",
       "time" : {
-        "start" : 1601487558172,
-        "stop" : 1601487558248,
-        "duration" : 76
+        "start" : 1601529992497,
+        "stop" : 1601529992690,
+        "duration" : 193
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I click set password",
-      "uid" : "6ad6054c24005fdb",
+      "uid" : "1f9d7efd206a4677",
       "parentUid" : "1ca4ae0d633fd68a72d92275b182f3cc",
       "status" : "passed",
       "time" : {
-        "start" : 1601487558249,
-        "stop" : 1601487558337,
-        "duration" : 88
+        "start" : 1601529992691,
+        "stop" : 1601529992798,
+        "duration" : 107
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Then I see text “This ZIP file is encrypted with a password using strong encryption” shown",
-      "uid" : "2b23871589877bf9",
+      "uid" : "1476b46c4be3769",
       "parentUid" : "1ca4ae0d633fd68a72d92275b182f3cc",
       "status" : "passed",
       "time" : {
-        "start" : 1601487558338,
-        "stop" : 1601487578371,
-        "duration" : 20033
+        "start" : 1601529992799,
+        "stop" : 1601530012836,
+        "duration" : 20037
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Hook",
-      "uid" : "cfcf83abf83d97a5",
+      "uid" : "29f85689381d8ee7",
       "parentUid" : "1ca4ae0d633fd68a72d92275b182f3cc",
       "status" : "passed",
       "time" : {
-        "start" : 1601487578371,
-        "stop" : 1601487578371,
-        "duration" : 0
+        "start" : 1601530012836,
+        "stop" : 1601530012837,
+        "duration" : 1
       },
       "flaky" : false,
       "newFailed" : false,
@@ -868,90 +881,90 @@
     "name" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing",
     "children" : [ {
       "name" : "Given I am on the homepage",
-      "uid" : "f724ddae656af195",
+      "uid" : "46597ee4fff14e0f",
       "parentUid" : "f5ca63b3ae5424900604c9cf6bd44090",
       "status" : "passed",
       "time" : {
-        "start" : 1601487578380,
-        "stop" : 1601487581037,
-        "duration" : 2657
+        "start" : 1601530012845,
+        "stop" : 1601530015356,
+        "duration" : 2511
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "When I click Create New Zip",
-      "uid" : "913c850dec4c40fc",
+      "uid" : "83fb873b225a156a",
       "parentUid" : "f5ca63b3ae5424900604c9cf6bd44090",
       "status" : "passed",
       "time" : {
-        "start" : 1601487581037,
-        "stop" : 1601487581688,
-        "duration" : 651
+        "start" : 1601530015356,
+        "stop" : 1601530016173,
+        "duration" : 817
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I input comp.zip",
-      "uid" : "790762598ba2addc",
+      "uid" : "227fe4832d4d089f",
       "parentUid" : "f5ca63b3ae5424900604c9cf6bd44090",
       "status" : "passed",
       "time" : {
-        "start" : 1601487581688,
-        "stop" : 1601487591850,
-        "duration" : 10162
+        "start" : 1601530016173,
+        "stop" : 1601530026363,
+        "duration" : 10190
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I choose file test.jpg from local system",
-      "uid" : "f0fabd65330665ee",
+      "uid" : "1de5ae7dad8a6446",
       "parentUid" : "f5ca63b3ae5424900604c9cf6bd44090",
       "status" : "passed",
       "time" : {
-        "start" : 1601487591851,
-        "stop" : 1601487606974,
-        "duration" : 15123
+        "start" : 1601530026363,
+        "stop" : 1601530041461,
+        "duration" : 15098
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Then I see the list of test.jpg of zip file before extraction begins",
-      "uid" : "6c06084afecea136",
+      "uid" : "54dbdadf47f7b444",
       "parentUid" : "f5ca63b3ae5424900604c9cf6bd44090",
       "status" : "passed",
       "time" : {
-        "start" : 1601487606974,
-        "stop" : 1601487627008,
-        "duration" : 20034
+        "start" : 1601530041461,
+        "stop" : 1601530061502,
+        "duration" : 20041
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I see \"Editing ZIP: 1 file added\" text shown",
-      "uid" : "43118c6c678a1c93",
+      "uid" : "774131e559410a04",
       "parentUid" : "f5ca63b3ae5424900604c9cf6bd44090",
       "status" : "passed",
       "time" : {
-        "start" : 1601487627008,
-        "stop" : 1601487627051,
-        "duration" : 43
+        "start" : 1601530061502,
+        "stop" : 1601530061543,
+        "duration" : 41
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Hook",
-      "uid" : "fbd1ee50910236f9",
+      "uid" : "7da438abd06e5994",
       "parentUid" : "f5ca63b3ae5424900604c9cf6bd44090",
       "status" : "passed",
       "time" : {
-        "start" : 1601487627053,
-        "stop" : 1601487627054,
+        "start" : 1601530061543,
+        "stop" : 1601530061544,
         "duration" : 1
       },
       "flaky" : false,
@@ -963,64 +976,64 @@
     "name" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list",
     "children" : [ {
       "name" : "Given I am on the homepage",
-      "uid" : "107e437050f0d138",
+      "uid" : "ff9ad3fd5809338e",
       "parentUid" : "5c92bce6c0aad27860c1e7f36d1a3d5e",
       "status" : "passed",
       "time" : {
-        "start" : 1601487627061,
-        "stop" : 1601487629715,
-        "duration" : 2654
+        "start" : 1601530061549,
+        "stop" : 1601530063994,
+        "duration" : 2445
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I click Create New Zip",
-      "uid" : "f84ff9f879eac3db",
+      "uid" : "5de9a3353314fd30",
       "parentUid" : "5c92bce6c0aad27860c1e7f36d1a3d5e",
       "status" : "passed",
       "time" : {
-        "start" : 1601487629715,
-        "stop" : 1601487630344,
-        "duration" : 629
+        "start" : 1601530063994,
+        "stop" : 1601530065018,
+        "duration" : 1024
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I input comp.zip",
-      "uid" : "acc33285b2049658",
+      "uid" : "65e9f0aed37efea4",
       "parentUid" : "5c92bce6c0aad27860c1e7f36d1a3d5e",
       "status" : "passed",
       "time" : {
-        "start" : 1601487630344,
-        "stop" : 1601487640494,
-        "duration" : 10150
+        "start" : 1601530065018,
+        "stop" : 1601530075171,
+        "duration" : 10153
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I choose file test.exe from local system",
-      "uid" : "debd0cbc0e8c1730",
+      "uid" : "671ac74507adb4b0",
       "parentUid" : "5c92bce6c0aad27860c1e7f36d1a3d5e",
       "status" : "passed",
       "time" : {
-        "start" : 1601487640494,
-        "stop" : 1601487655584,
-        "duration" : 15090
+        "start" : 1601530075171,
+        "stop" : 1601530090266,
+        "duration" : 15095
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I cliked on executable file",
-      "uid" : "32c7cf63fd86f4ff",
+      "uid" : "6d82134aea71bc35",
       "parentUid" : "5c92bce6c0aad27860c1e7f36d1a3d5e",
       "status" : "passed",
       "time" : {
-        "start" : 1601487655585,
-        "stop" : 1601487663672,
+        "start" : 1601530090266,
+        "stop" : 1601530098353,
         "duration" : 8087
       },
       "flaky" : false,
@@ -1028,26 +1041,26 @@
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Then I verify that no preview is available",
-      "uid" : "2c1e1da583f666bf",
+      "uid" : "a306a20e7bdfd238",
       "parentUid" : "5c92bce6c0aad27860c1e7f36d1a3d5e",
       "status" : "passed",
       "time" : {
-        "start" : 1601487663672,
-        "stop" : 1601487666727,
-        "duration" : 3055
+        "start" : 1601530098354,
+        "stop" : 1601530101407,
+        "duration" : 3053
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Hook",
-      "uid" : "80b3e76653531b2f",
+      "uid" : "cc8569cc9bba292f",
       "parentUid" : "5c92bce6c0aad27860c1e7f36d1a3d5e",
       "status" : "passed",
       "time" : {
-        "start" : 1601487666727,
-        "stop" : 1601487666728,
-        "duration" : 1
+        "start" : 1601530101408,
+        "stop" : 1601530101408,
+        "duration" : 0
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1058,116 +1071,116 @@
     "name" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list",
     "children" : [ {
       "name" : "Given I am on the homepage",
-      "uid" : "6e8bc3f77de86e2f",
+      "uid" : "87d9d178eba7f6d4",
       "parentUid" : "680ef749fba57fc4b34c3e756bb8f43b",
       "status" : "passed",
       "time" : {
-        "start" : 1601487666738,
-        "stop" : 1601487669195,
-        "duration" : 2457
+        "start" : 1601530101416,
+        "stop" : 1601530103910,
+        "duration" : 2494
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I click Create New Zip",
-      "uid" : "2296a5fcc944e902",
+      "uid" : "255648f2a7da4e32",
       "parentUid" : "680ef749fba57fc4b34c3e756bb8f43b",
       "status" : "passed",
       "time" : {
-        "start" : 1601487669196,
-        "stop" : 1601487670284,
-        "duration" : 1088
+        "start" : 1601530103910,
+        "stop" : 1601530107963,
+        "duration" : 4053
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I input comp.zip",
-      "uid" : "640214316b2c06e1",
+      "uid" : "3889ba26cbc60cab",
       "parentUid" : "680ef749fba57fc4b34c3e756bb8f43b",
       "status" : "passed",
       "time" : {
-        "start" : 1601487670286,
-        "stop" : 1601487680456,
-        "duration" : 10170
+        "start" : 1601530107963,
+        "stop" : 1601530118097,
+        "duration" : 10134
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I choose file test.jpg from local system",
-      "uid" : "9ec7047c4a6b0323",
+      "uid" : "e653547763e931ea",
       "parentUid" : "680ef749fba57fc4b34c3e756bb8f43b",
       "status" : "passed",
       "time" : {
-        "start" : 1601487680456,
-        "stop" : 1601487695554,
-        "duration" : 15098
+        "start" : 1601530118097,
+        "stop" : 1601530133179,
+        "duration" : 15082
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I choose file test.exe from local system",
-      "uid" : "9147adbc90da8e3a",
+      "uid" : "db875807b6a68a7",
       "parentUid" : "680ef749fba57fc4b34c3e756bb8f43b",
       "status" : "passed",
       "time" : {
-        "start" : 1601487695554,
-        "stop" : 1601487710613,
-        "duration" : 15059
+        "start" : 1601530133179,
+        "stop" : 1601530148233,
+        "duration" : 15054
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I remove file test.jpg from zip list",
-      "uid" : "598b087c2510e3ac",
+      "uid" : "50662adb7c938bf9",
       "parentUid" : "680ef749fba57fc4b34c3e756bb8f43b",
       "status" : "passed",
       "time" : {
-        "start" : 1601487710613,
-        "stop" : 1601487715716,
-        "duration" : 5103
+        "start" : 1601530148233,
+        "stop" : 1601530153335,
+        "duration" : 5102
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Then I see \"Editing ZIP: 1 file removed\" text shown",
-      "uid" : "cf00916c978b8072",
+      "uid" : "6eb86c5c9350201",
       "parentUid" : "680ef749fba57fc4b34c3e756bb8f43b",
-      "status" : "passed",
+      "status" : "failed",
       "time" : {
-        "start" : 1601487715716,
-        "stop" : 1601487715779,
-        "duration" : 63
+        "start" : 1601530153335,
+        "stop" : 1601530154368,
+        "duration" : 1033
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "And I see the list of test.exe of zip file before extraction begins",
-      "uid" : "6a30a0ec505f32f9",
+      "uid" : "b96b03b1bf368f6",
       "parentUid" : "680ef749fba57fc4b34c3e756bb8f43b",
-      "status" : "passed",
+      "status" : "skipped",
       "time" : {
-        "start" : 1601487715779,
-        "stop" : 1601487735817,
-        "duration" : 20038
+        "start" : 1601530154368,
+        "stop" : 1601530154368,
+        "duration" : 0
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-85.0.4183.121" ]
     }, {
       "name" : "Hook",
-      "uid" : "caa9633c5f37700d",
+      "uid" : "18927695b33e403d",
       "parentUid" : "680ef749fba57fc4b34c3e756bb8f43b",
       "status" : "passed",
       "time" : {
-        "start" : 1601487735817,
-        "stop" : 1601487735818,
+        "start" : 1601530154369,
+        "stop" : 1601530154370,
         "duration" : 1
       },
       "flaky" : false,

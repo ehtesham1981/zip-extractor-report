@@ -4,22 +4,39 @@
   "children" : [ {
     "name" : "Product defects",
     "children" : [ {
-      "name" : "expected '0' to deeply equal '1'",
+      "name" : "expected 'exe,test.exe,jpg,test.jpg,тест.txt' to deeply equal 'exe,test.exe,jpg,test.jpg,тест.txt1'",
       "children" : [ {
-        "name" : "Then I see encoded file name decoded to тест.txt",
-        "uid" : "9faaadedc9aedd6b",
-        "parentUid" : "ab3179afc5290cfe8400127ce11630b0",
+        "name" : "Then I see the list of exe,test.exe,jpg,test.jpg,тест.txt1 of zip file before extraction begins",
+        "uid" : "5269d94f0f4e022a",
+        "parentUid" : "8b1e35927badd27f6898e8b0b361dab8",
         "status" : "failed",
         "time" : {
-          "start" : 1601487454816,
-          "stop" : 1601487464950,
-          "duration" : 10134
+          "start" : 1601529812108,
+          "stop" : 1601529832713,
+          "duration" : 20605
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "chrome-85.0.4183.121" ]
       } ],
-      "uid" : "ab3179afc5290cfe8400127ce11630b0"
+      "uid" : "8b1e35927badd27f6898e8b0b361dab8"
+    }, {
+      "name" : "expected 'Displaying ZIP file...' to deeply equal 'Files added to ZIP'",
+      "children" : [ {
+        "name" : "Then I see \"Editing ZIP: 1 file removed\" text shown",
+        "uid" : "6eb86c5c9350201",
+        "parentUid" : "96c83c6cfa76cff8cc13e8a515ae6ba1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1601530153335,
+          "stop" : 1601530154368,
+          "duration" : 1033
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-85.0.4183.121" ]
+      } ],
+      "uid" : "96c83c6cfa76cff8cc13e8a515ae6ba1"
     } ],
     "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
   } ]

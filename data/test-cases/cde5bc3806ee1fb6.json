@@ -1,0 +1,56 @@
+{
+  "uid" : "cde5bc3806ee1fb6",
+  "name" : "Then I see entered password as masked",
+  "fullName" : "The Zip extractor Website: As a user, I see entered password as plainText when click on not show Password.Then I see entered password as masked",
+  "historyId" : "b982658d7512814fa3714d2aebf79474",
+  "time" : {
+    "start" : 1601529086241,
+    "stop" : 1601529086764,
+    "duration" : 523
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see entered password as plainText when click on not show Password"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see entered password as plainText when click on not show Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I see entered password as masked"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see entered password as plainText when click on not show Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cde5bc3806ee1fb6.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

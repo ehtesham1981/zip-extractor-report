@@ -1,0 +1,74 @@
+{
+  "uid" : "b96b03b1bf368f6",
+  "name" : "And I see the list of test.exe of zip file before extraction begins",
+  "fullName" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list.And I see the list of test.exe of zip file before extraction begins",
+  "historyId" : "8129d0c71719572b8c9f1361de478d05",
+  "time" : {
+    "start" : 1601530154368,
+    "stop" : 1601530154368,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I see the list of test.exe of zip file before extraction begins"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e516b6fffe6fdea9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529272412,
+        "stop" : 1601529292443,
+        "duration" : 20031
+      }
+    }, {
+      "uid" : "104bb41aba60db43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487715779,
+        "stop" : 1601487735817,
+        "duration" : 20038
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b96b03b1bf368f6.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

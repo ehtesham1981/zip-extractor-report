@@ -1,0 +1,74 @@
+{
+  "uid" : "b9dca24283300be2",
+  "name" : "When I click Create New Zip",
+  "fullName" : "The Zip extractor Website: As a user, I return to the standard Create Zip screen when click cross button.When I click Create New Zip",
+  "historyId" : "32342d19a7270f0dc05cd051602ddc77",
+  "time" : {
+    "start" : 1601529944432,
+    "stop" : 1601529945553,
+    "duration" : 1121
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I return to the standard Create Zip screen when click cross button"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I return to the standard Create Zip screen when click cross button"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click Create New Zip"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I return to the standard Create Zip screen when click cross button"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2ddc4a9a9e4d00d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529068408,
+        "stop" : 1601529069586,
+        "duration" : 1178
+      }
+    }, {
+      "uid" : "1bf56722530a1987",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487512469,
+        "stop" : 1601487512637,
+        "duration" : 168
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b9dca24283300be2.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

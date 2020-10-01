@@ -1,0 +1,56 @@
+{
+  "uid" : "d5c80617c6b9c1f5",
+  "name" : "Hook",
+  "fullName" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password using strong encryption” when set password with encryption.Hook",
+  "historyId" : "eb1e00733df311495f9492410e279d69",
+  "time" : {
+    "start" : 1601529988627,
+    "stop" : 1601529988628,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password using strong encryption” when set password with encryption"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password using strong encryption” when set password with encryption"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password using strong encryption” when set password with encryption"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d5c80617c6b9c1f5.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

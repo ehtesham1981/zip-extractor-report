@@ -1,0 +1,74 @@
+{
+  "uid" : "54dbdadf47f7b444",
+  "name" : "Then I see the list of test.jpg of zip file before extraction begins",
+  "fullName" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing.Then I see the list of test.jpg of zip file before extraction begins",
+  "historyId" : "59e583568ea28efeefaca9b42324805d",
+  "time" : {
+    "start" : 1601530041461,
+    "stop" : 1601530061502,
+    "duration" : 20041
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I see the list of test.jpg of zip file before extraction begins"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ea19b166fa9ce00f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529164044,
+        "stop" : 1601529184080,
+        "duration" : 20036
+      }
+    }, {
+      "uid" : "4fae310a1e45dc39",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487606974,
+        "stop" : 1601487627008,
+        "duration" : 20034
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "54dbdadf47f7b444.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

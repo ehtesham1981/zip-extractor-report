@@ -1,0 +1,74 @@
+{
+  "uid" : "c4fa4ddb419c3e25",
+  "name" : "Given I am on the homepage",
+  "fullName" : "The Zip extractor Website: : As a user, I see filename autocompleted with ZIP extension while clicking on screen.Given I am on the homepage",
+  "historyId" : "b7ff27d21211155756e5f5e6a37da86b",
+  "time" : {
+    "start" : 1601529903251,
+    "stop" : 1601529905745,
+    "duration" : 2494
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: : As a user, I see filename autocompleted with ZIP extension while clicking on screen"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: : As a user, I see filename autocompleted with ZIP extension while clicking on screen"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the homepage"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: : As a user, I see filename autocompleted with ZIP extension while clicking on screen"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cbbcd276a1b2cb84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529026377,
+        "stop" : 1601529028886,
+        "duration" : 2509
+      }
+    }, {
+      "uid" : "68a4d0f030fe8d43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487471339,
+        "stop" : 1601487473994,
+        "duration" : 2655
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c4fa4ddb419c3e25.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

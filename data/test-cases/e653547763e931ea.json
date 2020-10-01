@@ -1,0 +1,74 @@
+{
+  "uid" : "e653547763e931ea",
+  "name" : "And I choose file test.jpg from local system",
+  "fullName" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list.And I choose file test.jpg from local system",
+  "historyId" : "eae9c1a786fb9026b851b916c104008d",
+  "time" : {
+    "start" : 1601530118097,
+    "stop" : 1601530133179,
+    "duration" : 15082
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I choose file test.jpg from local system"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "24d7c8e403b48ad4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529237096,
+        "stop" : 1601529252197,
+        "duration" : 15101
+      }
+    }, {
+      "uid" : "921829a5c7e607f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487680456,
+        "stop" : 1601487695554,
+        "duration" : 15098
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e653547763e931ea.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

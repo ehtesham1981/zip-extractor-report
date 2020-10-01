@@ -1,0 +1,98 @@
+{
+  "uid" : "e7491435eecd6b25",
+  "name" : "Hook",
+  "fullName" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding.Hook",
+  "historyId" : "ba59ac7ea2bd534a290a50ac2fc6b6f7",
+  "time" : {
+    "start" : 1601529893292,
+    "stop" : 1601529893292,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "81dc90e6ed4d22b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529857483,
+        "stop" : 1601529857483,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "96a2cefa676df7aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529019409,
+        "stop" : 1601529019409,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "94e3bd62682c0315",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601528983819,
+        "stop" : 1601528983819,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "299c1dc241bc1b29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487464950,
+        "stop" : 1601487464958,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "b1dbc2be49dc0379",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487428966,
+        "stop" : 1601487428966,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e7491435eecd6b25.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

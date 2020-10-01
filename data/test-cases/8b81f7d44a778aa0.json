@@ -1,0 +1,56 @@
+{
+  "uid" : "8b81f7d44a778aa0",
+  "name" : "Given I am on the homepage",
+  "fullName" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding.Given I am on the homepage",
+  "historyId" : "42cd2f0bbc1a502a5e57ea2bb4d2254e",
+  "time" : {
+    "start" : 1601528983820,
+    "stop" : 1601528986132,
+    "duration" : 2312
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the homepage"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8b81f7d44a778aa0.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

@@ -1,0 +1,74 @@
+{
+  "uid" : "59f2678aa8720cd",
+  "name" : "And I click Create New Zip",
+  "fullName" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password” when set password.And I click Create New Zip",
+  "historyId" : "413ebeca0552afff290ffef22800bfe",
+  "time" : {
+    "start" : 1601529967025,
+    "stop" : 1601529967737,
+    "duration" : 712
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password” when set password"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password” when set password"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click Create New Zip"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password” when set password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fa7fd65990b272ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529089482,
+        "stop" : 1601529090251,
+        "duration" : 769
+      }
+    }, {
+      "uid" : "2274c081aa652f19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487532888,
+        "stop" : 1601487533598,
+        "duration" : 710
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "59f2678aa8720cd.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

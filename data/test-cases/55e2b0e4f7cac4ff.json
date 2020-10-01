@@ -1,0 +1,56 @@
+{
+  "uid" : "55e2b0e4f7cac4ff",
+  "name" : "Then I see text “This ZIP file is encrypted with a password using strong encryption” shown",
+  "fullName" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password using strong encryption” when set password with encryption.Then I see text “This ZIP file is encrypted with a password using strong encryption” shown",
+  "historyId" : "5a17a05e905221d53c7a830f1ced8df6",
+  "time" : {
+    "start" : 1601487558338,
+    "stop" : 1601487578371,
+    "duration" : 20033
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password using strong encryption” when set password with encryption"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password using strong encryption” when set password with encryption"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I see text “This ZIP file is encrypted with a password using strong encryption” shown"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password using strong encryption” when set password with encryption"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "55e2b0e4f7cac4ff.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

@@ -1,0 +1,98 @@
+{
+  "uid" : "cc8569cc9bba292f",
+  "name" : "Hook",
+  "fullName" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list.Hook",
+  "historyId" : "d5c6f6d7655d109202bfb5c31e3c44ee",
+  "time" : {
+    "start" : 1601530101408,
+    "stop" : 1601530101408,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8d190833d7a7249f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601530061549,
+        "stop" : 1601530061549,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "dd03ee28a7313eb0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529223846,
+        "stop" : 1601529223847,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "274457830e941857",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529184138,
+        "stop" : 1601529184138,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "17ed6ae19637bddb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487666727,
+        "stop" : 1601487666728,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "692f0807beae2f86",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487627061,
+        "stop" : 1601487627061,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc8569cc9bba292f.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

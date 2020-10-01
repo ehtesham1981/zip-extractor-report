@@ -1,0 +1,74 @@
+{
+  "uid" : "1c4b7cf60aff7139",
+  "name" : "Given I am on the homepage",
+  "fullName" : "The Zip extractor Website: As a user, I see add password prompt.Given I am on the homepage",
+  "historyId" : "c279938ea1e7fb83a7f4496136decf6",
+  "time" : {
+    "start" : 1601529927672,
+    "stop" : 1601529930159,
+    "duration" : 2487
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see add password prompt"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see add password prompt"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the homepage"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see add password prompt"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ece76318a67d02b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529052371,
+        "stop" : 1601529054839,
+        "duration" : 2468
+      }
+    }, {
+      "uid" : "7c886c12be19731f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487495835,
+        "stop" : 1601487498385,
+        "duration" : 2550
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1c4b7cf60aff7139.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

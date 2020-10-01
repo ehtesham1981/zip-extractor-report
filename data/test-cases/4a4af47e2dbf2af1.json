@@ -1,0 +1,98 @@
+{
+  "uid" : "4a4af47e2dbf2af1",
+  "name" : "Hook",
+  "fullName" : "The Zip extractor Website: As a user, I see \"Fix Encoding\" button.Hook",
+  "historyId" : "9623aa41a369d8e7db6e30d08e3bf069",
+  "time" : {
+    "start" : 1601529857477,
+    "stop" : 1601529857478,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see \"Fix Encoding\" button"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see \"Fix Encoding\" button"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see \"Fix Encoding\" button"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1a8008eb4256c5a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529832733,
+        "stop" : 1601529832734,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8b2cd91d776aafa9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601528983809,
+        "stop" : 1601528983811,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "332369643e308acc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601528959083,
+        "stop" : 1601528959083,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8dd752330e0cc77b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487428960,
+        "stop" : 1601487428961,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1ad8a3935989a0a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487404196,
+        "stop" : 1601487404196,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a4af47e2dbf2af1.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

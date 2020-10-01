@@ -1,0 +1,56 @@
+{
+  "uid" : "b8600bdc90fd5617",
+  "name" : "And I click on screen",
+  "fullName" : "The Zip extractor Website: : As a user, I see filename autocompleted with ZIP extension while clicking on screen.And I click on screen",
+  "historyId" : "53571bbb495ac861a520788e99b424d7",
+  "time" : {
+    "start" : 1601529041766,
+    "stop" : 1601529042322,
+    "duration" : 556
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: : As a user, I see filename autocompleted with ZIP extension while clicking on screen"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: : As a user, I see filename autocompleted with ZIP extension while clicking on screen"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on screen"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: : As a user, I see filename autocompleted with ZIP extension while clicking on screen"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b8600bdc90fd5617.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

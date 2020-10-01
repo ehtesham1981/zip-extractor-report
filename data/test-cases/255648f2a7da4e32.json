@@ -1,0 +1,74 @@
+{
+  "uid" : "255648f2a7da4e32",
+  "name" : "And I click Create New Zip",
+  "fullName" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list.And I click Create New Zip",
+  "historyId" : "fe957f4e380931ee1606364cf603f3b9",
+  "time" : {
+    "start" : 1601530103910,
+    "stop" : 1601530107963,
+    "duration" : 4053
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click Create New Zip"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "39341459d361ff9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529226296,
+        "stop" : 1601529226955,
+        "duration" : 659
+      }
+    }, {
+      "uid" : "c438fcb4cb531b80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487669196,
+        "stop" : 1601487670284,
+        "duration" : 1088
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "255648f2a7da4e32.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

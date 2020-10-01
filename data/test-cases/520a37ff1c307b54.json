@@ -1,0 +1,56 @@
+{
+  "uid" : "520a37ff1c307b54",
+  "name" : "Hook",
+  "fullName" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing.Hook",
+  "historyId" : "aae21c3d8c6808f4b1c271c8f10767c2",
+  "time" : {
+    "start" : 1601487627053,
+    "stop" : 1601487627054,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "520a37ff1c307b54.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

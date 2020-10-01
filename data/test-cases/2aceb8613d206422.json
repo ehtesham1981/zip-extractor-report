@@ -1,0 +1,56 @@
+{
+  "uid" : "2aceb8613d206422",
+  "name" : "When I click Create New Zip",
+  "fullName" : "The Zip extractor Website: As a user, I see Creating new ZIP file screen when choose to “Create New Zip”.When I click Create New Zip",
+  "historyId" : "3ac637008ec46b760f985db31f03454b",
+  "time" : {
+    "start" : 1601487467816,
+    "stop" : 1601487468680,
+    "duration" : 864
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see Creating new ZIP file screen when choose to “Create New Zip”"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see Creating new ZIP file screen when choose to “Create New Zip”"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click Create New Zip"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see Creating new ZIP file screen when choose to “Create New Zip”"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2aceb8613d206422.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

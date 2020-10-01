@@ -1,0 +1,56 @@
+{
+  "uid" : "51bc336f2f209a9c",
+  "name" : "Hook",
+  "fullName" : "The Zip extractor Website: As a user, I see entered password as plainText when click on not show Password.Hook",
+  "historyId" : "23160278d7385711e921bd809e5be185",
+  "time" : {
+    "start" : 1601487530396,
+    "stop" : 1601487530397,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see entered password as plainText when click on not show Password"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see entered password as plainText when click on not show Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see entered password as plainText when click on not show Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "51bc336f2f209a9c.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

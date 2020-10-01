@@ -1,0 +1,98 @@
+{
+  "uid" : "29f85689381d8ee7",
+  "name" : "Hook",
+  "fullName" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password using strong encryption” when set password with encryption.Hook",
+  "historyId" : "eb1e00733df311495f9492410e279d69",
+  "time" : {
+    "start" : 1601530012836,
+    "stop" : 1601530012837,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password using strong encryption” when set password with encryption"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password using strong encryption” when set password with encryption"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password using strong encryption” when set password with encryption"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d5c80617c6b9c1f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529988627,
+        "stop" : 1601529988628,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4388ef0aa48e68de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529135180,
+        "stop" : 1601529135181,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "768d2766dff9a2a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529110794,
+        "stop" : 1601529110794,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ffd8cf60eb32a61a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487578371,
+        "stop" : 1601487578371,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "63c15e8e2e5d99b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487554483,
+        "stop" : 1601487554483,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "29f85689381d8ee7.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

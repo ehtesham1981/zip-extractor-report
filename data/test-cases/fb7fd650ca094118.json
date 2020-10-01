@@ -1,0 +1,74 @@
+{
+  "uid" : "fb7fd650ca094118",
+  "name" : "Given I am on the homepage",
+  "fullName" : "The Zip extractor Website: As a user, I see \"Fix Encoding\" button.Given I am on the homepage",
+  "historyId" : "f384696576df8fcffbf3e7cbdb3c00d1",
+  "time" : {
+    "start" : 1601529832734,
+    "stop" : 1601529835289,
+    "duration" : 2555
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see \"Fix Encoding\" button"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see \"Fix Encoding\" button"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the homepage"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see \"Fix Encoding\" button"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4b16624ca719522c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601528959083,
+        "stop" : 1601528961616,
+        "duration" : 2533
+      }
+    }, {
+      "uid" : "ffdcd505a5968170",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487404196,
+        "stop" : 1601487406750,
+        "duration" : 2554
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb7fd650ca094118.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

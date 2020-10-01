@@ -1,0 +1,56 @@
+{
+  "uid" : "f730230bdf1e8087",
+  "name" : "When I click Create New Zip",
+  "fullName" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing.When I click Create New Zip",
+  "historyId" : "7109e02ae9cb3e5675e583965921075e",
+  "time" : {
+    "start" : 1601487581037,
+    "stop" : 1601487581688,
+    "duration" : 651
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click Create New Zip"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f730230bdf1e8087.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

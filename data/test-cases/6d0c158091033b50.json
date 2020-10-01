@@ -1,0 +1,56 @@
+{
+  "uid" : "6d0c158091033b50",
+  "name" : "And I choose file test.exe from local system",
+  "fullName" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list.And I choose file test.exe from local system",
+  "historyId" : "651d650383b0350ec516e29aea757644",
+  "time" : {
+    "start" : 1601487695554,
+    "stop" : 1601487710613,
+    "duration" : 15059
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I choose file test.exe from local system"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6d0c158091033b50.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

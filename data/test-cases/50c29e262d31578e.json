@@ -1,0 +1,56 @@
+{
+  "uid" : "50c29e262d31578e",
+  "name" : "Hook",
+  "fullName" : "The Zip extractor Website: As a user, I see add password prompt.Hook",
+  "historyId" : "fc33d6d2395930f7c789726abca479eb",
+  "time" : {
+    "start" : 1601529052370,
+    "stop" : 1601529052371,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see add password prompt"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see add password prompt"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see add password prompt"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "50c29e262d31578e.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

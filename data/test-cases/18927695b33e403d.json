@@ -1,0 +1,98 @@
+{
+  "uid" : "18927695b33e403d",
+  "name" : "Hook",
+  "fullName" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list.Hook",
+  "historyId" : "2f25a873de6fcd225d805aa411d0c0fb",
+  "time" : {
+    "start" : 1601530154369,
+    "stop" : 1601530154370,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see Editing ZIP text updated when I remove file from ZIP list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f089dadc495df692",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601530101416,
+        "stop" : 1601530101416,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "748e0a1fda4e0d93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529292443,
+        "stop" : 1601529292444,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "81043614092300a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529223853,
+        "stop" : 1601529223854,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c3fdc70841a87b2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487735817,
+        "stop" : 1601487735818,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ef222e9adcaf2e18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487666736,
+        "stop" : 1601487666738,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18927695b33e403d.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

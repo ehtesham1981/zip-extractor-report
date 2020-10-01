@@ -1,0 +1,56 @@
+{
+  "uid" : "6d434d0e2bddab00",
+  "name" : "Then I see screen titled \"Creating new ZIP file\"",
+  "fullName" : "The Zip extractor Website: As a user, I see Creating new ZIP file screen when choose to “Create New Zip”.Then I see screen titled \"Creating new ZIP file\"",
+  "historyId" : "7f4359d3727089a7438f62857c478520",
+  "time" : {
+    "start" : 1601529023724,
+    "stop" : 1601529026372,
+    "duration" : 2648
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see Creating new ZIP file screen when choose to “Create New Zip”"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see Creating new ZIP file screen when choose to “Create New Zip”"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I see screen titled \"Creating new ZIP file\""
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see Creating new ZIP file screen when choose to “Create New Zip”"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6d434d0e2bddab00.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

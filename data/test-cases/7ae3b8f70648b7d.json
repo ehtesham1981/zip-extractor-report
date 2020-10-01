@@ -1,0 +1,75 @@
+{
+  "uid" : "7ae3b8f70648b7d",
+  "name" : "Then I see encoded file name decoded to тест.txt",
+  "fullName" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding.Then I see encoded file name decoded to тест.txt",
+  "historyId" : "91e69211b8dd570b9342c38969e90cfb",
+  "time" : {
+    "start" : 1601529883184,
+    "stop" : 1601529893292,
+    "duration" : 10108
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I see encoded file name decoded to тест.txt"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "13d2d283ef15511f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529009309,
+        "stop" : 1601529019409,
+        "duration" : 10100
+      }
+    }, {
+      "uid" : "c90eb553df3fc9a7",
+      "status" : "failed",
+      "statusDetails" : "expected '0' to deeply equal '1'",
+      "time" : {
+        "start" : 1601487454816,
+        "stop" : 1601487464950,
+        "duration" : 10134
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7ae3b8f70648b7d.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

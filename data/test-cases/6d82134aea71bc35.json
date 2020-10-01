@@ -1,0 +1,74 @@
+{
+  "uid" : "6d82134aea71bc35",
+  "name" : "And I cliked on executable file",
+  "fullName" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list.And I cliked on executable file",
+  "historyId" : "616d1a23c0fa0da2f69aefe380d80546",
+  "time" : {
+    "start" : 1601530090266,
+    "stop" : 1601530098353,
+    "duration" : 8087
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I cliked on executable file"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5565852db80b0e1b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529212698,
+        "stop" : 1601529220788,
+        "duration" : 8090
+      }
+    }, {
+      "uid" : "f5df9bb7ee22737d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487655585,
+        "stop" : 1601487663672,
+        "duration" : 8087
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6d82134aea71bc35.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

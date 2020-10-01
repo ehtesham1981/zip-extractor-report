@@ -1,0 +1,56 @@
+{
+  "uid" : "4fae310a1e45dc39",
+  "name" : "Then I see the list of test.jpg of zip file before extraction begins",
+  "fullName" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing.Then I see the list of test.jpg of zip file before extraction begins",
+  "historyId" : "59e583568ea28efeefaca9b42324805d",
+  "time" : {
+    "start" : 1601487606974,
+    "stop" : 1601487627008,
+    "duration" : 20034
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I see the list of test.jpg of zip file before extraction begins"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4fae310a1e45dc39.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

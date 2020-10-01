@@ -1,0 +1,74 @@
+{
+  "uid" : "34015378cca667fd",
+  "name" : "Then I see add password prompt appeared",
+  "fullName" : "The Zip extractor Website: As a user, I see add password prompt.Then I see add password prompt appeared",
+  "historyId" : "ea8ee7f5671baf9a331d067351e87829",
+  "time" : {
+    "start" : 1601529941785,
+    "stop" : 1601529941927,
+    "duration" : 142
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see add password prompt"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see add password prompt"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I see add password prompt appeared"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see add password prompt"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c34ab8d224982ba3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529065844,
+        "stop" : 1601529065964,
+        "duration" : 120
+      }
+    }, {
+      "uid" : "ce34ca5f5fb8edcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487509345,
+        "stop" : 1601487509476,
+        "duration" : 131
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "34015378cca667fd.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

@@ -1,0 +1,56 @@
+{
+  "uid" : "dd03ee28a7313eb0",
+  "name" : "Hook",
+  "fullName" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list.Hook",
+  "historyId" : "d5c6f6d7655d109202bfb5c31e3c44ee",
+  "time" : {
+    "start" : 1601529223846,
+    "stop" : 1601529223847,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dd03ee28a7313eb0.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

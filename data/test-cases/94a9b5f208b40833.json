@@ -1,0 +1,74 @@
+{
+  "uid" : "94a9b5f208b40833",
+  "name" : "When I open zip Zip.zipx from local system",
+  "fullName" : "The Zip extractor Website: As a user, I see native OS choosed zip file contents listed on screen.When I open zip Zip.zipx from local system",
+  "historyId" : "4bcd7f2a4de83962380bafcb2a00d16e",
+  "time" : {
+    "start" : 1601529791962,
+    "stop" : 1601529812108,
+    "duration" : 20146
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see native OS choosed zip file contents listed on screen"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see native OS choosed zip file contents listed on screen"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I open zip Zip.zipx from local system"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see native OS choosed zip file contents listed on screen"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c5ba6ca0ab4c617a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601528918846,
+        "stop" : 1601528938965,
+        "duration" : 20119
+      }
+    }, {
+      "uid" : "13da88ab975060dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487363952,
+        "stop" : 1601487384088,
+        "duration" : 20136
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "94a9b5f208b40833.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

@@ -1,0 +1,74 @@
+{
+  "uid" : "fedaf2b91fda239d",
+  "name" : "Then I see entered password as plainText",
+  "fullName" : "The Zip extractor Website: As a user, I see entered password as plainText when click on show Password.Then I see entered password as plainText",
+  "historyId" : "e7181490a9094b8ac8257a1c6edd101a",
+  "time" : {
+    "start" : 1601529959427,
+    "stop" : 1601529959956,
+    "duration" : 529
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see entered password as plainText when click on show Password"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see entered password as plainText when click on show Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I see entered password as plainText"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see entered password as plainText when click on show Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "567a226f953c5571",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529082361,
+        "stop" : 1601529082887,
+        "duration" : 526
+      }
+    }, {
+      "uid" : "74c71537f7e63474",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487525661,
+        "stop" : 1601487526184,
+        "duration" : 523
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fedaf2b91fda239d.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

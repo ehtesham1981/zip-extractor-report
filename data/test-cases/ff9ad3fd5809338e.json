@@ -1,0 +1,74 @@
+{
+  "uid" : "ff9ad3fd5809338e",
+  "name" : "Given I am on the homepage",
+  "fullName" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list.Given I am on the homepage",
+  "historyId" : "5683a219312cbaed702208a17fe001c9",
+  "time" : {
+    "start" : 1601530061549,
+    "stop" : 1601530063994,
+    "duration" : 2445
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the homepage"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d39a5e27fd4b46cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529184138,
+        "stop" : 1601529186618,
+        "duration" : 2480
+      }
+    }, {
+      "uid" : "3534759e88d93339",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487627061,
+        "stop" : 1601487629715,
+        "duration" : 2654
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ff9ad3fd5809338e.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

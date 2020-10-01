@@ -1,0 +1,74 @@
+{
+  "uid" : "5de9a3353314fd30",
+  "name" : "And I click Create New Zip",
+  "fullName" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list.And I click Create New Zip",
+  "historyId" : "aadd2b52d1f5a9172adaad6183a2d70c",
+  "time" : {
+    "start" : 1601530063994,
+    "stop" : 1601530065018,
+    "duration" : 1024
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click Create New Zip"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ca8fa71c61c1d401",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529186618,
+        "stop" : 1601529187480,
+        "duration" : 862
+      }
+    }, {
+      "uid" : "a3ce05cbf9097f9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487629715,
+        "stop" : 1601487630344,
+        "duration" : 629
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5de9a3353314fd30.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

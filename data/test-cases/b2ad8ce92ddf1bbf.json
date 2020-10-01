@@ -1,0 +1,74 @@
+{
+  "uid" : "b2ad8ce92ddf1bbf",
+  "name" : "When I open zip Zip.none.zip from local system",
+  "fullName" : "The Zip extractor Website: As a user, I see \"Fix Encoding\" button.When I open zip Zip.none.zip from local system",
+  "historyId" : "3eeeca6a466cfdf1b77229cb7db96f9f",
+  "time" : {
+    "start" : 1601529835289,
+    "stop" : 1601529855422,
+    "duration" : 20133
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see \"Fix Encoding\" button"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see \"Fix Encoding\" button"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I open zip Zip.none.zip from local system"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see \"Fix Encoding\" button"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c981bf0c3e97865",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601528961616,
+        "stop" : 1601528981752,
+        "duration" : 20136
+      }
+    }, {
+      "uid" : "57b2003ddf098e5f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487406750,
+        "stop" : 1601487426897,
+        "duration" : 20147
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b2ad8ce92ddf1bbf.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

@@ -1,0 +1,74 @@
+{
+  "uid" : "227fe4832d4d089f",
+  "name" : "And I input comp.zip",
+  "fullName" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing.And I input comp.zip",
+  "historyId" : "58adb510491c89daf7ef2c740e7edea9",
+  "time" : {
+    "start" : 1601530016173,
+    "stop" : 1601530026363,
+    "duration" : 10190
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I input comp.zip"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see native OS choosed files added to zip appear in the ZIP file listing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e6de1c517ce39bb3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529138769,
+        "stop" : 1601529148942,
+        "duration" : 10173
+      }
+    }, {
+      "uid" : "2e27286a8ea936f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487581688,
+        "stop" : 1601487591850,
+        "duration" : 10162
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "227fe4832d4d089f.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

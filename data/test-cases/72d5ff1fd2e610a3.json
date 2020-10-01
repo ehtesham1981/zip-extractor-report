@@ -1,0 +1,56 @@
+{
+  "uid" : "72d5ff1fd2e610a3",
+  "name" : "And I choose file test.exe from local system",
+  "fullName" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list.And I choose file test.exe from local system",
+  "historyId" : "820f5ede00e01d7bde253196c51f5178",
+  "time" : {
+    "start" : 1601487640494,
+    "stop" : 1601487655584,
+    "duration" : 15090
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I choose file test.exe from local system"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see no preview when native OS added files open from ZIP list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "72d5ff1fd2e610a3.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

@@ -1,0 +1,74 @@
+{
+  "uid" : "372176b461fa19e0",
+  "name" : "Given I am on the homepage",
+  "fullName" : "The Zip extractor Website: As a user, I see entered password as plainText when click on show Password.Given I am on the homepage",
+  "historyId" : "a7a0143d75a00de673d4063f2a57a282",
+  "time" : {
+    "start" : 1601529954893,
+    "stop" : 1601529957782,
+    "duration" : 2889
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see entered password as plainText when click on show Password"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see entered password as plainText when click on show Password"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the homepage"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see entered password as plainText when click on show Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b5ee9ac478dafcf2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529078907,
+        "stop" : 1601529081333,
+        "duration" : 2426
+      }
+    }, {
+      "uid" : "a8009a30ad3104f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487522065,
+        "stop" : 1601487524797,
+        "duration" : 2732
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "372176b461fa19e0.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

@@ -1,0 +1,74 @@
+{
+  "uid" : "db747879130b2bd7",
+  "name" : "And I click Fix encoding button",
+  "fullName" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding.And I click Fix encoding button",
+  "historyId" : "e5614ccab2f6fc0da52d093a2c7566a",
+  "time" : {
+    "start" : 1601529880085,
+    "stop" : 1601529883184,
+    "duration" : 3099
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click Fix encoding button"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "31e15a87790fbcd1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529006213,
+        "stop" : 1601529009309,
+        "duration" : 3096
+      }
+    }, {
+      "uid" : "e74074143c309d3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487451713,
+        "stop" : 1601487454816,
+        "duration" : 3103
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "db747879130b2bd7.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

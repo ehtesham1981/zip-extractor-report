@@ -1,0 +1,74 @@
+{
+  "uid" : "1f9d7efd206a4677",
+  "name" : "And I click set password",
+  "fullName" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password using strong encryption” when set password with encryption.And I click set password",
+  "historyId" : "a34a4e2e352b10f6742d9f678abb9fea",
+  "time" : {
+    "start" : 1601529992691,
+    "stop" : 1601529992798,
+    "duration" : 107
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password using strong encryption” when set password with encryption"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password using strong encryption” when set password with encryption"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click set password"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see text “This ZIP file is encrypted with a password using strong encryption” when set password with encryption"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ec63402e42e3d3c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529115032,
+        "stop" : 1601529115139,
+        "duration" : 107
+      }
+    }, {
+      "uid" : "9c8321c5b4fc5a7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487558249,
+        "stop" : 1601487558337,
+        "duration" : 88
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1f9d7efd206a4677.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

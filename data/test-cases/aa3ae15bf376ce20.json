@@ -1,0 +1,74 @@
+{
+  "uid" : "aa3ae15bf376ce20",
+  "name" : "And I click Add Password",
+  "fullName" : "The Zip extractor Website: As a user, I return to the standard Create Zip screen when click cross button.And I click Add Password",
+  "historyId" : "5ac8310265e63aa8181facbdd731c79a",
+  "time" : {
+    "start" : 1601529945554,
+    "stop" : 1601529945680,
+    "duration" : 126
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I return to the standard Create Zip screen when click cross button"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I return to the standard Create Zip screen when click cross button"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click Add Password"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I return to the standard Create Zip screen when click cross button"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ac13e32914a44639",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529069586,
+        "stop" : 1601529069712,
+        "duration" : 126
+      }
+    }, {
+      "uid" : "5deeaf0cd24e99fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487512638,
+        "stop" : 1601487512850,
+        "duration" : 212
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aa3ae15bf376ce20.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

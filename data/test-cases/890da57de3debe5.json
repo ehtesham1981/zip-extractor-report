@@ -1,0 +1,98 @@
+{
+  "uid" : "890da57de3debe5",
+  "name" : "Hook",
+  "fullName" : "The Zip extractor Website: : As a user, I see filename autocompleted with ZIP extension while clicking on screen.Hook",
+  "historyId" : "2588ad364692e1bf68c3823e8d641250",
+  "time" : {
+    "start" : 1601529927665,
+    "stop" : 1601529927665,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: : As a user, I see filename autocompleted with ZIP extension while clicking on screen"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: : As a user, I see filename autocompleted with ZIP extension while clicking on screen"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: : As a user, I see filename autocompleted with ZIP extension while clicking on screen"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "296a65a6a75e9003",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529903249,
+        "stop" : 1601529903251,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "9e054ef43e469eba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529052364,
+        "stop" : 1601529052364,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "40acc7171cde6bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601529026376,
+        "stop" : 1601529026376,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5f2e279156a8fe34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487495827,
+        "stop" : 1601487495829,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "3681d36454f6e656",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601487471339,
+        "stop" : 1601487471339,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "890da57de3debe5.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

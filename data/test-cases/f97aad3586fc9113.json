@@ -1,0 +1,56 @@
+{
+  "uid" : "f97aad3586fc9113",
+  "name" : "When I open zip Zip.none.zip from local system",
+  "fullName" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding.When I open zip Zip.none.zip from local system",
+  "historyId" : "74c259b94a7dc49982169cbbb7628a58",
+  "time" : {
+    "start" : 1601528986133,
+    "stop" : 1601529006213,
+    "duration" : 20080
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding"
+  }, {
+    "name" : "testClass",
+    "value" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I open zip Zip.none.zip from local system"
+  }, {
+    "name" : "package",
+    "value" : "The Zip extractor Website: As a user, I see encoded file name decoded when I fix encoding"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f97aad3586fc9113.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}
